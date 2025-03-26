@@ -14,3 +14,4 @@ def save_to_mongo(product, sentiment_data, recommendation):
         "recommendation": recommendation
     })
     print("✅ Data saved to MongoDB!")
+print(hii)
